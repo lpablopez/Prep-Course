@@ -257,6 +257,7 @@ function esVocal(letra){
   else{
    return "Dato incorrecto";
 }
+//finish homework 1
 }
 
 
